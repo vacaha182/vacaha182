@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 AI
 | #  | Tópico                             | Fecha   | Diapositivas | Grabación | Repositorio                        | Recurso adicional       |
 |---:|------------------------------------|---------|--------------|-----------|------------------------------------|-------------------------|
-| 1  | docker_kafka         | 7 Oct   | [ai + Python]([https://github.com/vacaha182/docker_kafka](https://github.com/vacaha182/ai))       | [NA]()     | [NA]()                | [Guía de Repositorio]()     |
+| 1  | docker_kafka         | 7 Oct   | [ai + Python](https://github.com/vacaha182/ai)       | [NA]()     | [NA]()                | [Guía de Repositorio]()     |
 
