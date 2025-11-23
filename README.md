@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 
 | #  | Tópico                             | Fecha   | Diapositivas | Grabación | Repositorio                        | Recurso adicional       |
 |---:|------------------------------------|---------|--------------|-----------|------------------------------------|-------------------------|
-| 1  | docker_kafka         | 7 Oct   | NA | NA     | [Repositorio](https://github.com/vacaha182/docker_kafka)           | [Guía de Repositorio](https://github.com/vacaha182/docker_kafka)      |
-| 2  | docker_Jupyterhub    | 8 Oct   | NA | NA     | [Repositorio](https://github.com/vacaha182/docker_jupyterhub)      | [Guía de Repositorio](https://github.com/vacaha182/docker_jupyterhub) |
-| 3  | Jupyterlab           | 9 Oct   | NA | NA     | [Repositorio](https://github.com/vacaha182/docker_kafka)           | [Guía de Repositorio](https://github.com/vacaha182/docker_kafka)      |
-| 4  | docker_OPENLDAP      | 9 Oct   | NA | NA     | [Repositorio](https://github.com/vacaha182/docker_OPENLDAP)        | [Guía de Repositorio](https://github.com/vacaha182/docker_OPENLDAP)   |
+| 1  | docker_kafka         | 7 Oct   | NA | NA     | [Repositorio](https://github.com/vacaha182/docker_kafka)          | [Guía de Repositorio](https://github.com/vacaha182/docker_kafka)      |
+| 2  | docker_Jupyterhub    | 8 Oct   | NA | NA     | [Repositorio](https://github.com/vacaha182/docker_jupyterhub)     | [Guía de Repositorio](https://github.com/vacaha182/docker_jupyterhub) |
+| 3  | Jupyterlab           | 9 Oct   | NA | NA     | [Repositorio](https://github.com/vacaha182/docker_jupyterlab)     | [Guía de Repositorio](https://github.com/vacaha182/docker_jupyterlab) |
+| 4  | docker_OPENLDAP      | 9 Oct   | NA | NA     | [Repositorio](https://github.com/vacaha182/docker_OPENLDAP)       | [Guía de Repositorio](https://github.com/vacaha182/docker_OPENLDAP)  |
 | 4  | Linux server                  | 14 Oct  | [enlace](https://github.com/vacaha182/docker_kafka)       | [video](https://github.com/vacaha182/docker_kafka)     | [Repositorio](https://github.com/vacaha182/docker_kafka)                  | [Guía de Repositorio](https://github.com/vacaha182/docker_kafka)     |
 | 5  | oracle              | 15 Oct  | [enlace](https://github.com/vacaha182/docker_kafka)       | [video](https://github.com/vacaha182/docker_kafka)     | [Repositorio](https://github.com/vacaha182/docker_kafka) | [Guía de Repositorio](https://github.com/vacaha182/docker_kafka) |
 | 6  | portainer                | 16 Oct  | [enlace](https://github.com/vacaha182/docker_kafka)       | [video](https://github.com/vacaha182/docker_kafka)     | [Repositorio](https://github.com/vacaha182/docker_kafka)                  | [Guía de Repositorio](https://github.com/vacaha182/docker_kafka)     |
