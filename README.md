@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+# Docker
 | #  | Tópico                             | Fecha   | Diapositivas | Grabación | Repositorio                        | Recurso adicional       |
 |---:|------------------------------------|---------|--------------|-----------|------------------------------------|-------------------------|
 | 1  | docker_kafka         | 7 Oct   | NA | NA     | [Repositorio](https://github.com/vacaha182/docker_kafka)          | [Guía de Repositorio](https://github.com/vacaha182/docker_kafka)      |
