@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 # Docker
 | #  | Tópico                             | Fecha   | Diapositivas | Grabación | Repositorio                        | Recurso adicional       |
 |---:|------------------------------------|---------|--------------|-----------|------------------------------------|-------------------------|
+| 0  | docker               | 7 Oct   | NA | NA     | [Repositorio](https://github.com/vacaha182/docker)          | [Guía de Repositorio](https://github.com/vacaha182/docker)      |
 | 1  | docker_kafka         | 7 Oct   | NA | NA     | [Repositorio](https://github.com/vacaha182/docker_kafka)          | [Guía de Repositorio](https://github.com/vacaha182/docker_kafka)      |
 | 2  | docker_Jupyterhub    | 8 Oct   | NA | NA     | [Repositorio](https://github.com/vacaha182/docker_jupyterhub)     | [Guía de Repositorio](https://github.com/vacaha182/docker_jupyterhub) |
 | 3  | docker_Jupyterlab    | 9 Oct   | NA | NA     | [Repositorio](https://github.com/vacaha182/docker_jupyterlab)     | [Guía de Repositorio](https://github.com/vacaha182/docker_jupyterlab) |
