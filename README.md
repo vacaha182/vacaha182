@@ -61,7 +61,11 @@ AI
 | #  | Tópico                             | Fecha   | Diapositivas | Grabación | Repositorio                        | Recurso adicional       |
 |---:|------------------------------------|---------|--------------|-----------|------------------------------------|-------------------------|
 | 1  | Curso LLMs, Embeddings Vectoriales, RAG, Agentes, MCP         | 202511   | [NA]()     | [NA]()     | [ai + Python](https://github.com/vacaha182/ai)                | [Guía de Repositorio]()     |
-| 2  | mcp-for-beginners         | 202512   | [NA]()     | [NA]()     | - [mcp-for-beginners (Original)](https://github.com/microsoft/mcp-for-beginners) <br>- [mcp-for-beginners (fork)](https://github.com/vacaha182/mcp-for-beginners)| [Guía de Repositorio]()     |
+| 2  | mcp-for-beginners                       | 202512   | [NA]()     | [NA]()     | - [mcp-for-beginners (Original)](https://github.com/microsoft/mcp-for-beginners) <br>- [mcp-for-beginners (fork)](https://github.com/vacaha182/mcp-for-beginners)| [Guía de Repositorio]()     |
+| 3  | Construyendo servidores MCP con FastMCP | 202512   | [NA]()     | [NA]()     | - [python-mcp-demos (Original)](https://github.com/Azure-Samples/python-mcp-demos) <br>- [python-mcp-demos (fork)](https://github.com/vacaha182/python-mcp-demos)| [Guía de Repositorio]()     |
+
+
+
 
 
 
