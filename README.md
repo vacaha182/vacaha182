@@ -61,4 +61,10 @@ AI
 | #  | Tópico                             | Fecha   | Diapositivas | Grabación | Repositorio                        | Recurso adicional       |
 |---:|------------------------------------|---------|--------------|-----------|------------------------------------|-------------------------|
 | 1  | Curso LLMs, Embeddings Vectoriales, RAG, Agentes, MCP         | 7 Oct   | [NA]()     | [NA]()     | [ai + Python](https://github.com/vacaha182/ai)                | [Guía de Repositorio]()     |
+| 2  | mcp-for-beginners         | 7 Oct   | [NA]()     | [NA]()     | [mcp-for-beginners (Original)](https://github.com/microsoft/mcp-for-beginners) <br>[mcp-for-beginners](https://github.com/vacaha182/mcp-for-beginners)| [Guía de Repositorio]()     |
+
+
+
+
+
 
