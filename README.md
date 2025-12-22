@@ -62,9 +62,9 @@ AI
 |---:|------------------------------------|---------|--------------|-----------|------------------------------------|-------------------------|
 | 1  | Curso LLMs, Embeddings Vectoriales, RAG, Agentes, MCP         | 202511   | [NA]()     | [NA]()     | [ai + Python](https://github.com/vacaha182/ai)                | [Guía de Repositorio]()     |
 | 2  | mcp-for-beginners                       | 202512   | [NA]()     | [NA]()     | - [mcp-for-beginners (Original)](https://github.com/microsoft/mcp-for-beginners) <br>- [mcp-for-beginners (fork)](https://github.com/vacaha182/mcp-for-beginners)| [Guía de Repositorio]()     |
-| 3  | Construyendo servidores MCP con FastMCP | 202512   | [NA]()     | - [eng](https://www.youtube.com/watch?v=_mUuhOwv9PY&t=3013s) <br>- [esp](https://www.youtube.com/watch?v=PhZ1SpOk9Y4)     | - [python-mcp-demos (Original)](https://github.com/Azure-Samples/python-mcp-demos) <br>- [python-mcp-demos (fork)](https://github.com/vacaha182/python-mcp-demos)| [Guía de Repositorio]()     |
-
-
+| 3  | Construyendo servidores MCP con FastMCP | 202512   | [NA](https://aka.ms/pythonmcp/diapositivas/servidores)     | - [eng](https://www.youtube.com/watch?v=_mUuhOwv9PY&t=3013s) <br>- [esp](https://www.youtube.com/watch?v=PhZ1SpOk9Y4)     | - [python-mcp-demos (Original)](https://github.com/Azure-Samples/python-mcp-demos) <br>- [python-mcp-demos (fork)](https://github.com/vacaha182/python-mcp-demos)| [Guía de Repositorio]()     |
+| 4  | Depliegue a la nube | 202512   | [NA](https://aka.ms/pythonmcp/diapositivas/deploying)     | - [eng]() <br>- [esp](https://www.youtube.com/watch?v=tHZ4ehTsgNk)     | - [python-mcp-demos (Original)](https://github.com/Azure-Samples/python-mcp-demos) <br>- [python-mcp-demos (fork)](https://github.com/vacaha182/python-mcp-demos)| [Guía de Repositorio]()     |
+| 5  | Autenticación para servidores MCP | 202512   | [NA](https://aka.ms/pythonmcp/diapositivas/auth)     | - [eng]() <br>- [esp](https://www.youtube.com/watch?v=_wz28BD0t9Q)     | - [python-mcp-demos (Original)](https://github.com/Azure-Samples/python-mcp-demos) <br>- [python-mcp-demos (fork)](https://github.com/vacaha182/python-mcp-demos)| [Guía de Repositorio]()     |
 
 
 
