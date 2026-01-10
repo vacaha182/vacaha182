@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 | 8  | suse                         | 22 Oct  | [enlace](https://github.com/vacaha182/docker_kafka)       | [video](https://github.com/vacaha182/docker_kafka)     | [Repositorio](https://github.com/vacaha182/docker_kafka)             | [Guía de Repositorio](https://github.com/vacaha182/docker_kafka)     |
 | 9  | ubuntu       | 23 Oct  | [enlace](https://github.com/vacaha182/docker_kafka)       | [video](https://github.com/vacaha182/docker_kafka)     | [Repositorio](https://github.com/vacaha182/docker_kafka)             | [Guía de Repositorio](https://github.com/vacaha182/docker_kafka)     |
 | 10  | ai       | 23 Oct  | [enlace](https://github.com/vacaha182/docker_kafka)       | [video](https://github.com/vacaha182/docker_kafka)     | [Repositorio](https://github.com/vacaha182/docker_kafka)             | [Guía de Repositorio](https://github.com/vacaha182/docker_kafka)     |
-|11|video mkv|20260110|  ||[repositorio](https://github.com/vacaha182/docker_mkv)|
+|11|video mkv|20260110|  ||[Repositorio](https://github.com/vacaha182/docker_mkv)|
 
 AI
 | #  | Tópico                             | Fecha   | Diapositivas | Grabación | Repositorio                        | Recurso adicional       |
