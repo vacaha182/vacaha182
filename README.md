@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 # Docker
 | #  | Tópico               | Fecha    | PPT | Grabación | Repositorio                                                               | Recurso adicional |
 |---:|----------------------|----------|-----|-----------|---------------------------------------------------------------------------|-------------------|-------------------------|
-| 0  | docker               | 20230120 |     |           | [Repositorio](https://github.com/vacaha182/docker)                        |                   |
-| 1  | docker_kafka         | 20230220 |     |           | [Repositorio](https://github.com/vacaha182/docker_kafka)                  |                   |
-| 2  | docker_Jupyterhub    | 20230320 |     |           | [Repositorio](https://github.com/vacaha182/docker_jupyterhub)             |                   |
-| 3  | docker_Jupyterlab    | 20240420 |     |           | [Repositorio](https://github.com/vacaha182/docker_jupyterlab)             |                   |
-| 4  | docker_OPENLDAP      | 20240520 |     |           | [Repositorio](https://github.com/vacaha182/docker_OPENLDAP)               |                   |
-| 5 | queryservices         | 20260220 |     |           | [Repositorio](https://github.com/vacaha182/docker_teradata_queryservices) |                   |
---
+| 0  | docker               | 20230120 |     |           | [Repositorio](https://github.com/vacaha182/docker)                        |                   |                         |
+| 1  | docker_kafka         | 20230220 |     |           | [Repositorio](https://github.com/vacaha182/docker_kafka)                  |                   |   |
+| 2  | docker_Jupyterhub    | 20230320 |     |           | [Repositorio](https://github.com/vacaha182/docker_jupyterhub)             |                   |   |
+| 3  | docker_Jupyterlab    | 20240420 |     |           | [Repositorio](https://github.com/vacaha182/docker_jupyterlab)             |                   |   |
+| 4  | docker_OPENLDAP      | 20240520 |     |           | [Repositorio](https://github.com/vacaha182/docker_OPENLDAP)               |                   |   |
+| 5 | queryservices         | 20260220 |     |           | [Repositorio](https://github.com/vacaha182/docker_teradata_queryservices) |                   |   |
 | 4  | Linux server                  | 14 Oct  | [enlace](https://github.com/vacaha182/docker_kafka)       | [video](https://github.com/vacaha182/docker_kafka)     | [Repositorio](https://github.com/vacaha182/docker_kafka)                  | [Guía de Repositorio](https://github.com/vacaha182/docker_kafka)     |
 | 5  | oracle              | 15 Oct  | [enlace](https://github.com/vacaha182/docker_kafka)       | [video](https://github.com/vacaha182/docker_kafka)     | [Repositorio](https://github.com/vacaha182/docker_kafka) | [Guía de Repositorio](https://github.com/vacaha182/docker_kafka) |
 | 6  | portainer                | 16 Oct  | [enlace](https://github.com/vacaha182/docker_kafka)       | [video](https://github.com/vacaha182/docker_kafka)     | [Repositorio](https://github.com/vacaha182/docker_kafka)                  | [Guía de Repositorio](https://github.com/vacaha182/docker_kafka)     |
