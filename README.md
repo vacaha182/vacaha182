@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 # Docker
-| #  | Tópico               | Fecha    | PPT | Grabación | Repositorio                                                               | Recurso adicional |
+| #  | Tópico               | Fecha    | PPT | Grabación | Repositorio                                                               | Recurso adicional |                         |
 |---:|----------------------|----------|-----|-----------|---------------------------------------------------------------------------|-------------------|-------------------------|
 | 0  | docker               | 20230120 |     |           | [Repositorio](https://github.com/vacaha182/docker)                        |                   |                         |
 | 1  | docker_kafka         | 20230220 |     |           | [Repositorio](https://github.com/vacaha182/docker_kafka)                  |                   |                         |
